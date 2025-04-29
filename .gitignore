@@ -1,6 +1,11 @@
 # Python virtual environment
 venv/
 
+# PDF folders
+pdfs_to_process/
+pdfs-done/
+ocr_output/
+
 # Environment variables
 .env
 

@@ -9,3 +9,5 @@ langchain-community==0.3.23
 langchain-groq==0.3.2
 lanchain-ollama==0.3.2
 lanchain-openai==0.3.14
+jupyter==1.1.1
+mistralai==1.7.0
