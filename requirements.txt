@@ -1,0 +1,11 @@
+python-dotenv==1.1.0
+httpx==0.28.1
+pydantic==2.11.3
+pydantic-settings==2.9.1
+fastapi==0.115.12
+uvicorn==0.34.2
+langchain==0.3.24
+langchain-community==0.3.23
+langchain-groq==0.3.2
+lanchain-ollama==0.3.2
+lanchain-openai==0.3.14
