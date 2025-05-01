@@ -11,3 +11,9 @@ lanchain-ollama==0.3.2
 lanchain-openai==0.3.14
 jupyter==1.1.1
 mistralai==1.7.0
+unstructured
+docx2txt==0.9
+huggingface_hub==0.30.2
+sentence-transformers==4.1.0
+langchain-huggingface==0.1.2
+langchain_chroma==0.2.3

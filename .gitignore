@@ -5,6 +5,8 @@ venv/
 pdfs_to_process/
 pdfs-done/
 ocr_output/
+docs/
+chroma_db/
 
 # Environment variables
 .env
